@@ -1,0 +1,29 @@
+ === PART ====================================================================
+|NC File Name: C:\USERS\ABC\DESKTOP\APRIL 2022\KNEST  09.04.2022\14TH FLOOR B & C\AUTONEST0021.HNC|Customer:                   | 
+|Draft Num: .                 |Date: APR 27 2022 |Version:                    | 
+|Order Num:                |Description:                                      | 
+ === SHEET ==============Number of Sheets: 1              ====================
+|Material: aluminium                  |Sheet Size: 2440 X 1220      |T= 4.0   |  
+|Num of Parts: 16                     |Part Size:                             | 
+|Part Weight:                         |Sheet Weight: 35.72 kg                 | 
+ === MACHINE =================================================================
+|Model: HG-FARLEY                                                             | 
+ === PROGRAM =================================================================
+|Number:                     |Length: 18954       |Programmer: Amol Pujari    | 
+|Notes:                                                                       | 
+ === JOB TIME (min:sec) ======================================================
+|Travel: 00:30             |Cut: 16:17             |Pierce: 00:36             | 
+|Travel way: 12749.4       |Cutting way: 35450.7   |Pierce Qty: 71            | 
+|Total time: 17:23         |                                                  |
+ =============================================================================                               
+                                         
+|        PART  NAME                                               | QUANTITY  |
+ -----------------------------------------------------------------------------
+| C:\USERS\ABC\DESKTOP\APRIL 2022\KNEST  09.04.2022\14TH FLOOR B & C\150 SP-LS(GF) 700 B-25NOS|  8        |
+| C:\USERS\ABC\DESKTOP\APRIL 2022\KNEST  09.04.2022\14TH FLOOR B & C\SP-RKS-PC-68-1NOS|  1        |
+| C:\USERS\ABC\DESKTOP\APRIL 2022\KNEST  09.04.2022\14TH FLOOR B & C\SP-RKS-PC-81-1NOS|  1        |
+| C:\USERS\ABC\DESKTOP\APRIL 2022\KNEST  09.04.2022\14TH FLOOR B & C\150 SP-LS(GF)-1400 A HOLE-117NOS|  1        |
+| C:\USERS\ABC\DESKTOP\APRIL 2022\KNEST  09.04.2022\14TH FLOOR B & C\150 SP-LS(GF)-1050 A HOLE-15NOS|  1        |
+| C:\USERS\ABC\DESKTOP\APRIL 2022\KNEST  09.04.2022\14TH FLOOR B & C\195 SP-LSC(H=150)(GFR)465 B-1NOS|  1        |
+| C:\USERS\ABC\DESKTOP\APRIL 2022\KNEST  09.04.2022\14TH FLOOR B & C\350 SP-WX(S=3000)GF-250-1180NOS|  2        |
+| C:\USERS\ABC\DESKTOP\APRIL 2022\KNEST  09.04.2022\14TH FLOOR B & C\SP-B(H=100)-01-20NOS|  1        |

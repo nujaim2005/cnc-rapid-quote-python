@@ -1,0 +1,27 @@
+ === PART ====================================================================
+|NC File Name: C:\USERS\ABC\DESKTOP\KNEST  09.04.2022\14TH FLOOR B & C\AUTONEST0002.HNC|Customer:                   | 
+|Draft Num:                   |Date: APR 12 2022 |Version:                    | 
+|Order Num:                |Description:                                      | 
+ === SHEET ==============Number of Sheets: 9              ====================
+|Material: aluminium                  |Sheet Size: 5850 X 150       |T= 4.0   |  
+|Num of Parts: 12                     |Part Size:                             | 
+|Part Weight:                         |Sheet Weight: 10.53 kg                 | 
+ === MACHINE =================================================================
+|Model: HG-FARLEY                                                             | 
+ === PROGRAM =================================================================
+|Number:                     |Length: 11788       |Programmer: Amol Pujari    | 
+|Notes:                                                                       | 
+ === JOB TIME (min:sec) ======================================================
+|Travel: 00:16             |Cut: 05:57             |Pierce: 00:14             | 
+|Travel way: 6893.5        |Cutting way: 16351.2   |Pierce Qty: 28            | 
+|Total time: 06:27         |                                                  |
+ =============================================================================                               
+                                         
+|        PART  NAME                                               | QUANTITY  |
+ -----------------------------------------------------------------------------
+| C:\USERS\ABC\DESKTOP\KNEST  09.04.2022\14TH FLOOR B & C\SP-SL(H=3000)(GV)600 C-36NOS|  1        |
+| C:\USERS\ABC\DESKTOP\KNEST  09.04.2022\14TH FLOOR B & C\SP-SL(H=3000)(GV)600 B HOLE-36NOS|  1        |
+| C:\USERS\ABC\DESKTOP\KNEST  09.04.2022\14TH FLOOR B & C\SP-SL(H=3000)(GV)600 A-36NOS|  4        |
+| C:\USERS\ABC\DESKTOP\KNEST  09.04.2022\14TH FLOOR B & C\SP-SL(H=3000)(GV)450 A-24NOS|  2        |
+| C:\USERS\ABC\DESKTOP\KNEST  09.04.2022\14TH FLOOR B & C\SP-SL(H=3000)(GV)300 C-18NOS|  2        |
+| C:\USERS\ABC\DESKTOP\KNEST  09.04.2022\14TH FLOOR B & C\SP-SL(H=3000)(GV)300 B HOLE-18NOS|  2        |

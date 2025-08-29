@@ -1,0 +1,25 @@
+ === PART ====================================================================
+|NC File Name: C:\USERS\ABC\DESKTOP\SUPERLAP 23.07.2021\COPPER 3MM001.HNC|Customer:                   | 
+|Draft Num:                   |Date: JUL 23 2021 |Version:                    | 
+|Order Num:                |Description:                                      | 
+ === SHEET ==============Number of Sheets: 1              ====================
+|Material: copper                     |Sheet Size: 355 X 180        |T= 3.0   |  
+|Num of Parts: 10                     |Part Size:                             | 
+|Part Weight:                         |Sheet Weight: 1.73 kg                  | 
+ === MACHINE =================================================================
+|Model: HG-FARLEY                                                             | 
+ === PROGRAM =================================================================
+|Number:                     |Length: 15360       |Programmer: Amol Pujari    | 
+|Notes:                                                                       | 
+ === JOB TIME (min:sec) ======================================================
+|Travel: 00:04             |Cut: 01:14             |Pierce: 00:15             | 
+|Travel way: 1500.5        |Cutting way: 3093      |Pierce Qty: 10            | 
+|Total time: 01:35         |                                                  |
+ =============================================================================                               
+                                         
+|        PART  NAME                                               | QUANTITY  |
+ -----------------------------------------------------------------------------
+| C:\USERS\ABC\DESKTOP\SUPERLAP 23.07.2021\21721_LASER ANGLE      |  7        |
+| C:\USERS\ABC\DESKTOP\SUPERLAP 23.07.2021\21721_LASER COPPE B    |  1        |
+| C:\USERS\ABC\DESKTOP\SUPERLAP 23.07.2021\21721_LASER COPPE C    |  1        |
+| C:\USERS\ABC\DESKTOP\SUPERLAP 23.07.2021\21721_LASER COPPER A   |  1        |
